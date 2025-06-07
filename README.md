@@ -25,6 +25,7 @@ Each command has a short, clear description - great for studying, creating CLI p
 ---
 
 ## 📚 Table of Contents
+> Here are all the files
 
 - [File And Directory Commands](commands/FileAndDirectory.md)  
 - [Text Output And Viewing](commands/TextOutputAndViewing.md)  
