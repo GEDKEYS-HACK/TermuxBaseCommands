@@ -37,5 +37,11 @@ pkg install curl
 pkg update && pkg upgrade
 ```
 
+## 💬 How to Use
+
+- Install Termux from F-Droid or Play Store.
+- Open Termux and try these commands one at a time.
+- Experiment, learn, and modify — no need to memorize everything!
+
 ## 📄 License
 This project is licensed under the MIT License — feel free to use, modify, and share!
