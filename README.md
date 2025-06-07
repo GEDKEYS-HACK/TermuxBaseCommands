@@ -24,6 +24,21 @@ Each command has a short, clear description - great for studying, creating CLI p
 
 ---
 
+## 📚 Table of Contents
+
+- [File And Directory Commands](commands/FileAndDirectory.md)  
+- [Text Output And Viewing](commands/TextOutput.md)  
+- [System Info And Process Monitoring](commands/SystemInfo.md)  
+- [Package Management](commands/PackageManagement.md)  
+- [Networking](commands/Networking.md)  
+- [File Permissions And Execution](commands/Permissions.md)  
+- [Archive And Compression](commands/Compression.md)  
+- [Pipes And Redirection](commands/Pipes.md)  
+- [Shell Tools](commands/ShellTools.md)  
+- [Termux Specific Commands](commands/TermuxAndroid.md)  
+
+---
+
 ## ⚠️ Important Notes Before You Start
 > 📥 Some commands may require you to install specific packages. If a command doesn’t work, try installing it using pkg or apt. Example:
 ```bash
