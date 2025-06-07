@@ -27,8 +27,8 @@ Each command has a short, clear description - great for studying, creating CLI p
 ## 📚 Table of Contents
 
 - [File And Directory Commands](commands/FileAndDirectory.md)  
-- [Text Output And Viewing](commands/TextOutput.md)  
-- [System Info And Process Monitoring](commands/SystemInfo.md)  
+- [Text Output And Viewing](commands/TextOutputAndViewing.md)  
+- [System Info And Process Monitoring](commands/SystemInfoAndProcessMonitoring.md)  
 - [Package Management](commands/PackageManagement.md)  
 - [Networking](commands/Networking.md)  
 - [File Permissions And Execution](commands/Permissions.md)  
