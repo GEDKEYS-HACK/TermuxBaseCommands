@@ -20,7 +20,7 @@ This repo includes:
 - 📱 Android-specific Termux tools
 - 🧠 Handy tricks for learning and scripting
 
-Each command has a short, clear description - great for studying, creating CLI projects, or managing your device like a pro. You can find this codes in "commands" folder.
+Each command has a short, clear description - great for studying, creating CLI projects, or managing your device like a pro.
 
 ---
 
