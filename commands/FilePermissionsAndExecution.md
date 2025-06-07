@@ -1,12 +1,9 @@
-## 🌐 Networking
+## 🔧 File Permissions & Execution
 
 ```bash
-ping google.com                # Test internet connection
-curl https://example.com       # Fetch web page
-wget https://site.com/file.txt # Download file
-ip a                           # Show IP info
-ifconfig                       # Network info (if installed)
-termux-wifi-connectioninfo     # Wi-Fi info
-termux-battery-status          # Battery info
-netstat                        # Network status (if installed)
+chmod +x script.sh        # Make script executable
+chmod 755 filename        # Set permissions
+ls -l                     # View permissions
+./script.sh               # Run local script
+sh script.sh              # Run with shell
 ```
