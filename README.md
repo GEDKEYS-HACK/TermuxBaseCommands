@@ -31,9 +31,9 @@ Each command has a short, clear description - great for studying, creating CLI p
 - [System Info And Process Monitoring](commands/SystemInfoAndProcessMonitoring.md)  
 - [Package Management](commands/PackageManagement.md)  
 - [Networking](commands/Networking.md)  
-- [File Permissions And Execution](commands/Permissions.md)  
-- [Archive And Compression](commands/Compression.md)  
-- [Pipes And Redirection](commands/Pipes.md)  
+- [File Permissions And Execution](commands/PermissionsAndExecution.md)  
+- [Archive And Compression](commands/ArchiveAndCompression.md)  
+- [Pipes And Redirection](commands/PipesAndRedirection.md)  
 - [Shell Tools](commands/ShellTools.md)  
 - [Termux Specific Commands](commands/TermuxAndroid.md)  
 
