@@ -23,3 +23,16 @@ This repo includes:
 Each command has a short, clear description - great for studying, creating CLI projects, or managing your device like a pro.
 
 ---
+
+## ⚠️ Important Notes Before You Start
+> 📥 Some commands may require you to install specific packages. If a command doesn’t work, try installing it using pkg or apt. Example:
+```bash
+pkg install curl
+```
+ 🌐 You must be connected to the internet (Wi-Fi or mobile data) to install packages or use networking commands.
+
+> 🔄 Keep your system updated for best compatibility:
+
+```bash
+pkg update && pkg upgrade
+```
