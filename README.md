@@ -36,3 +36,6 @@ pkg install curl
 ```bash
 pkg update && pkg upgrade
 ```
+
+## 📄 License
+This project is licensed under the MIT License — feel free to use, modify, and share!
